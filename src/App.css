@@ -1,0 +1,14 @@
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+.col{
+    width: 250px;
+    height: 250px;
+    line-height: 250px;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+
+}

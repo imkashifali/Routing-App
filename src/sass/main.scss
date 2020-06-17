@@ -1,0 +1,15 @@
+$bgColor: #D0CFCF;
+$color:white;
+$jumbotron: #F2FFE5	;
+
+
+
+body{
+    background-color: $bgColor;
+}
+.p{
+    color: $color;
+}
+.jumbotron{
+    background-color: $jumbotron ;
+}
